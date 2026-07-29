@@ -19,7 +19,7 @@ OptiMed uses AI to support patients and doctors throughout the care journey — 
 
 ---
 
-## 🎥 Demo
+## 🎥 videos for the system
 [Watch the system walkthrough](https://youtu.be/nQ29NIN-9rM)
 
 ---
