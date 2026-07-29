@@ -26,7 +26,6 @@ OptiMed manages your whole clinic — appointment booking and queue organization
 ---
 
 ## 📬 Contact
-- 📞 01006947262
 - 📞 01062015096
 - Email: rahmd1287@gmail.com
 - LinkedIn: [linkedin.com/in/raouf-ahmed-6b3050247](https://www.linkedin.com/in/raouf-ahmed-6b3050247)
